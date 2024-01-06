@@ -7,7 +7,7 @@ def calculate_higher_fitness(parent1_fitness, parent2_fitness, child_fitness):
     if child_fitness > parent1_fitness and child_fitness > parent2_fitness:
         return 0
     else:
-        if parent1_fitness > parent2_fitness
+        if parent1_fitness > parent2_fitness:
             return 1
         else:
             return 2
