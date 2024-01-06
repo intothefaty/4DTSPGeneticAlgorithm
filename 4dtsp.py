@@ -6,7 +6,7 @@ import numpy as np
 def calculate_higher_fitness(parent1_fitness, parent2_fitness, child_fitness):
     if child_fitness > parent1_fitness and child_fitness > parent2_fitness:
         return 0
-    elif parent1_fitness > child_fitness:
+    else:
         if parent1_fitness > parent2_fitness
             return 1
         else:
