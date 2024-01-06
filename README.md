@@ -25,3 +25,18 @@ Yöntem
 Genetik algoritmalarda popülasyon oluşturma, başlangıçta çeşitli çözümlerin rastgele seçilmesiyle başlar. 
 Fitness hesaplama, her çözümün problemi ne kadar iyi çözdüğünü değerlendirir. Daha yüksek fitness değerine sahip bireyler, gelecek nesiller için tercih edilir. 
 Evrimsel işlemler arasında seçilim, çaprazlama ve mutasyon bulunur. Bu süreçler, zamanla daha uygun çözümlere ulaşmak için popülasyonun evrimini sağlar.
+
+10 şehirli, 10 bireyli popülasyonlu, 10 iterasyonlu ve mutasyon ihtimali 0.01 olan bir örnek output
+
+<img width="412" alt="Screenshot 2024-01-06 at 11 00 27" src="https://github.com/intothefaty/4DTSPGeneticAlgorithm/assets/83587302/a4b81074-9416-4765-b9b8-cfad2c275006">
+<img width="484" alt="Screenshot 2024-01-06 at 11 00 38" src="https://github.com/intothefaty/4DTSPGeneticAlgorithm/assets/83587302/51a36f4a-cef5-410d-9a01-eeb4b5f2bed2">
+<img width="475" alt="Screenshot 2024-01-06 at 11 00 46" src="https://github.com/intothefaty/4DTSPGeneticAlgorithm/assets/83587302/7f29a91f-8c61-43a7-9130-3eb2fa84fc25">
+<img width="456" alt="Screenshot 2024-01-06 at 11 00 55" src="https://github.com/intothefaty/4DTSPGeneticAlgorithm/assets/83587302/edd17d87-fa73-4e33-8982-bbf3c49de0ae">
+
+
+
+
+
+
+
+
